@@ -1,0 +1,6 @@
+{
+  "name": "FoxyPet",
+  "description": "A delightful virtual pet game with Cat, Dog, and Fox companions, mini-games, customization, and daily adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
